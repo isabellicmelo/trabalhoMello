@@ -20,3 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.text-blue-custom {
+    color: #001F3F;
+}
